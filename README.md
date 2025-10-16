@@ -32,11 +32,13 @@ Implemented classic OS scheduling algorithms with visualization.
 
 🏅 Experience
 
+QA Intern - Systems Limited
+
 Frontend Developer Intern – Mind Digital
 
 UI/UX Designer – Nass Enterprises
 
-Developer Training – Danat F.P Software House
+Developer Training – Danat F.Z Software House
 
 Worked on image classification & manual testing for an Android restaurant app
 # 📊 GitHub Stats:
