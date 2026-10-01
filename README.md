@@ -94,7 +94,7 @@
 <div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dheerajkumar47&theme=dark&show_icons=true&hide_border=true)
-![GitHub streak](https://nirzak-streak-stats.vercel.app/?user=dheerajkumar47&theme=dark&hide_border=true)
+[![GitHub streak](https://streak-stats.demolab.com/?user=dheerajkumar47&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajkumar47&theme=dark&hide_border=true&layout=compact)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=dheerajkumar47&theme=radical&no-frame=true&no-bg=true&margin-w=4)
